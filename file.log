@@ -1,0 +1,24 @@
+2020-10-27 15:32:40,867  * Restarting with stat
+2020-10-27 15:32:42,018  * Debugger is active!
+2020-10-27 15:32:42,030  * Debugger PIN: 393-604-303
+2020-10-27 15:32:42,075  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-10-27 16:11:51,787  * Restarting with stat
+2020-10-27 16:11:53,304  * Debugger is active!
+2020-10-27 16:11:53,321  * Debugger PIN: 136-566-845
+2020-10-27 16:11:53,370  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-10-27 16:12:18,464 127.0.0.1 - - [27/Oct/2020 16:12:18] "[33mGET / HTTP/1.1[0m" 404 -
+2020-10-27 16:12:19,022 127.0.0.1 - - [27/Oct/2020 16:12:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-10-27 16:12:31,930 127.0.0.1 - - [27/Oct/2020 16:12:31] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+2020-10-27 16:12:32,163 127.0.0.1 - - [27/Oct/2020 16:12:32] "[37mGET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-10-27 16:12:32,330 127.0.0.1 - - [27/Oct/2020 16:12:32] "[37mGET /create?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-10-27 16:12:32,458 127.0.0.1 - - [27/Oct/2020 16:12:32] "[37mGET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-10-27 16:12:33,232 127.0.0.1 - - [27/Oct/2020 16:12:33] "[37mGET /create?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-10-27 16:12:33,247 127.0.0.1 - - [27/Oct/2020 16:12:33] "[37mGET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-10-27 16:12:33,437 127.0.0.1 - - [27/Oct/2020 16:12:33] "[37mGET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-10-27 16:16:26,962 127.0.0.1 - - [27/Oct/2020 16:16:26] "[35m[1mGET /delete HTTP/1.1[0m" 500 -
+2020-10-27 16:16:27,119 127.0.0.1 - - [27/Oct/2020 16:16:27] "[37mGET /delete?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-10-27 16:16:27,142 127.0.0.1 - - [27/Oct/2020 16:16:27] "[37mGET /delete?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-10-27 16:16:27,522 127.0.0.1 - - [27/Oct/2020 16:16:27] "[37mGET /delete?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-10-27 16:16:28,009 127.0.0.1 - - [27/Oct/2020 16:16:28] "[37mGET /delete?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-10-27 16:16:28,038 127.0.0.1 - - [27/Oct/2020 16:16:28] "[37mGET /delete?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-10-27 16:16:28,258 127.0.0.1 - - [27/Oct/2020 16:16:28] "[37mGET /delete?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
